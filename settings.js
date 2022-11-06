@@ -45,8 +45,8 @@ global.callblock === "false" // call block "true" / "false" (CALL ගන්න �
 global.owner = ['+94711936799']
 global.ownertag = '+94711936799' //ur tag number
 global.botname = '𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉 - 𝘉𝘖𝘛' //ur bot name
-global.packname = "Bot Sticker" // sticker packname
-global.author = "𝙍𝙀𝘿╺ 𝘿𝙍𝘼𝙂𝙊𝙉" // sticker author
+global.packname = "😎VIRAJ" // sticker packname
+global.author = "😎VIRAJ" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-MD ]' //In list menu
 
